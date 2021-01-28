@@ -15,3 +15,6 @@ For this assignment, I determined the number of retiring empoyees per title (suc
 
 * How are the new managers going to be trained?
 
+## Summary
+
+
